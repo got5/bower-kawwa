@@ -1,4 +1,9 @@
 {
   "name": "kawwa",
-  "version": "v2.0.5"
+  "version": "v2.0.5",
+  "homepage": "https://github.com/got5/KAWWA",
+  "authors": [
+    "Krazar <krazarpwnu@gmail.com>"
+  ],
+  "license": "MIT"
 }
